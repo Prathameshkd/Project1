@@ -1,7 +1,7 @@
-# My Firdt project :octocat:
+# My Firdt project 
 *BY prathamehs*
 
-Project FIles 
+Project FIles :octocat:
 1. Item 1
 2. Item 2
 3. Item 3
