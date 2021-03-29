@@ -8,10 +8,6 @@ Project FIles
  * Item 3a
  * Item 3b
 
-Ad I said:
-> Iam good.
-> NOt bad.
-
-As Grace Hopper said:
-> I’ve always been more interested
-> in the future than in the past.
+#1
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
