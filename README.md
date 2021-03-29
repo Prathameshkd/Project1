@@ -10,5 +10,5 @@ Project FIles
 
 Ad I said:
 
-> Iam good
-> NOt bad
+> Iam good.
+> NOt bad.
