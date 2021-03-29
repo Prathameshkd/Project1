@@ -1,4 +1,4 @@
-# My Firdt project
+# My Firdt project :octocat:
 *BY prathamehs*
 
 Project FIles 
@@ -8,5 +8,3 @@ Project FIles
  * Item 3a
  * Item 3b
 
-:+1: :sparkles: :camel: :tada: 
-:rocket: :metal: :octocat: 
